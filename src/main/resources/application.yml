@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: pojo-query-binding-bug
+---
+jackson:
+  bean-introspection-module: true
+
